@@ -14,6 +14,10 @@
   <p align="center">
     Get intelligent insights for your ideal career with AI-driven resume analysis, ATS scoring, and actionable feedback.
   </p>
+
+  <p align="center">
+    🌐 <a href="https://check-my-resume.vercel.app/" target="_blank"><strong>Live Demo</strong></a> 🌐
+  </p>
 </div>
 
 ---
@@ -149,6 +153,12 @@ Vercel provides the best support for React Router v7 + Vite projects.
    - Click **"Deploy"**
 
 3. **Done!** Your app will be live at `https://your-project.vercel.app`
+
+### This Project is Live! 🎉
+
+**Live URL:** [https://check-my-resume.vercel.app/](https://check-my-resume.vercel.app/)
+
+Check out the live demo to see the project in action!
 
 ### Alternative: Deploy to Netlify
 
